@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋 I'm Danilo Ferreira
 
 🚀 DevOps | Cloud Engineer | CI/CD Enthusiast | K8s <br>
