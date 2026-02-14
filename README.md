@@ -2,7 +2,7 @@
 
 # Hi there 👋 I'm Danilo Ferreira
 
-🚀 DevOps | Cloud Engineer | CI/CD Enthusiast | K8s 
+🚀 DevOps | Cloud Engineer | CI/CD Enthusiast | K8s <br>
 💡 Passionate about automation, cloud-native architecture and infrastructure as code.
 
 ---
