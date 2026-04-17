@@ -11,7 +11,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="45"/>
  
-  <img src="https://skillicons.dev/icons?i=githubactions" width="45" alt= "github actions"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="45" alt="github actions"/>
 
   <img src="https://skillicons.dev/icons?i=aws"  width="45"/>
   <img src="https://skillicons.dev/icons?i=azure"  width="45"/>
